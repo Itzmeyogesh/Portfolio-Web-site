@@ -148,7 +148,8 @@ header .follow a:hover{
 .home .image{
     flex: 1 1 40rem;
 }
-.home .image img{
+.home .image img
+{
     width: 200px;
     border-radius: 50px;
     border: 5px solid var(--shadow_color);
@@ -218,7 +219,8 @@ header .follow a:hover{
 .about .row-1 .image{
     flex: 1 1 25rem;
 }
-.about .row-1 .image img{
+.about .row-1 .image img
+{
     height: auto;
     display: inline;
     margin: 5rem 5rem;
@@ -277,7 +279,8 @@ header .follow a:hover{
     border-radius: 1rem;
     padding: 1.25rem;
 }
-.work__img {
+.work__img 
+{
     border-radius: 1rem;
     margin-bottom: 1rem;
     width: 200px;
